@@ -11,6 +11,10 @@ body {
   color: #222;
 }
 
+a{
+  text-decoration: none;
+}
+
 .booklist {
   margin: 5rem auto;
 }
